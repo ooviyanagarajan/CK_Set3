@@ -1,8 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-package CK_Set3;
+
 
 import java.util.*;
 public class ArrayMax {
