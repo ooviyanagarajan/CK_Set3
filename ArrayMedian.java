@@ -7,7 +7,7 @@ public class ArrayMedian {
          System.out.print("Enter total elements: ");
          Scanner sc=new Scanner(System.in);
          n=sc.nextInt();
-         if(n>100000){
+         if(n>1000){
              System.out.println("Please enter number of terms < 100000");
          }
          else 
