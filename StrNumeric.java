@@ -1,5 +1,4 @@
 
-package CK_Set3;
 
 import java.util.*;
 public class StrNumeric {
