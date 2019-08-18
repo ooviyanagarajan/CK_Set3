@@ -1,5 +1,4 @@
 
-package CK_Set3;
 import java.util.*;
 public class MinstoHrs {
      public static void main(String[] args){
