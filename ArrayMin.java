@@ -1,12 +1,6 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-package CK_Set3;
+
 
 import java.util.Scanner;
-
-
 public class ArrayMin {
   public static void main(String[]args){
         int n;
