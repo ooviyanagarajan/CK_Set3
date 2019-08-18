@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class sumAP {
+public class SumAP {
  
     public static void main(String args[]) 
     { 
